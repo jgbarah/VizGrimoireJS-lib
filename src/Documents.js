@@ -31,6 +31,7 @@ if (Documents === undefined) var Documents = {};
     Documents.promisesCachedDocuments = promisesCachedDocuments;
 
     // Implementation
+
     /**
      * Creates an object for caching remote files, accessible through url.
      *
